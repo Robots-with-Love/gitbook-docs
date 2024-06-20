@@ -2,8 +2,8 @@
 
 ## 🩷 Start
 
-* [How this works..](README.md)
-* [Welcome](start/welcome.md)
+* [Welcome](README.md)
+* [How this works..](<README (1).md>)
 
 ## 💜 Voxel Robots
 
@@ -17,3 +17,4 @@
 ## 🩷 Info
 
 * [Terms and Conditions](info/terms-and-conditions.md)
+* [Whitepaper](https://robots-with-love.gitbook.io/robots-with-love-whitepaper/)
