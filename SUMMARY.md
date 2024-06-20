@@ -13,6 +13,8 @@
 ## 💙 Tools
 
 * [Open Source Software](tools/open-source-software.md)
+* [Blockbench](tools/blockbench.md)
+* [Pixelorama](tools/pixelorama.md)
 
 ## 🩷 Info
 
