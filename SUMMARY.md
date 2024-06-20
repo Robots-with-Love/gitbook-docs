@@ -13,3 +13,7 @@
 ## 💙 Tools
 
 * [Open Source Software](tools/open-source-software.md)
+
+## 🩷 Info
+
+* [Terms and Conditions](info/terms-and-conditions.md)
