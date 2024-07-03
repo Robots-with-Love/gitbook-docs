@@ -26,6 +26,8 @@
 
 ## 🩷 Info
 
+* [Legal](info/legal/README.md)
+  * [Privacy Policy](info/legal/privacy-policy.md)
+  * [Terms and Conditions](info/legal/terms-and-conditions.md)
 * [Contribute to RWL!](info/contribute-to-rwl.md)
-* [Terms and Conditions](info/terms-and-conditions.md)
 * [Whitepaper](https://robots-with-love.gitbook.io/robots-with-love-whitepaper/)
