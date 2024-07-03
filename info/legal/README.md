@@ -8,5 +8,7 @@ description: >-
 
 [Terms and Conditions](terms-and-conditions.md)
 
-[Privacy Policy](privacy-policy.md)
+[MIT License](mit-license.md)
+
+
 

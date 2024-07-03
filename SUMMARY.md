@@ -27,7 +27,7 @@
 ## 🩷 Info
 
 * [Legal](info/legal/README.md)
-  * [Privacy Policy](info/legal/privacy-policy.md)
+  * [MIT License](info/legal/mit-license.md)
   * [Terms and Conditions](info/legal/terms-and-conditions.md)
 * [Contribute to RWL!](info/contribute-to-rwl.md)
 * [Whitepaper](https://robots-with-love.gitbook.io/robots-with-love-whitepaper/)
