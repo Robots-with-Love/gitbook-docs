@@ -3,8 +3,8 @@
 ## 🩷 Start
 
 * [Welcome](README.md)
-* [Network Map](start/network-map.md)
-* [Content Development](start/content-development.md)
+* [Network Map](<README (1).md>)
+* [Bounties](start/bounties.md)
 
 ## 💜 Voxel Robots
 
