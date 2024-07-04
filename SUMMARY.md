@@ -3,7 +3,7 @@
 ## 🩷 Start
 
 * [Welcome](README.md)
-* [How this works..](<README (1).md>)
+* [Network Map](start/network-map.md)
 * [Content Development](start/content-development.md)
 
 ## 💜 Voxel Robots
