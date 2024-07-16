@@ -3,8 +3,6 @@
 ## 🩷 Start
 
 * [Welcome](README.md)
-* [Network Map](<README (1).md>)
-* [Bounties](start/bounties.md)
 
 ## 💜 Voxel Robots
 
@@ -17,12 +15,12 @@
 
 ## 💙 Tools
 
-* [Open Source Software](tools/open-source-software.md)
+* [Network Map](tools/network-map.md)
+* [Tools](tools/tools.md)
+* [Bounties](tools/bounties.md)
 * [Blockbench](tools/blockbench.md)
 * [Pixelorama](tools/pixelorama.md)
 * [Jan.ai](tools/jan.ai.md)
-* [Babylon.js](tools/babylon.js.md)
-* [ct.js](tools/ct.js.md)
 
 ## 🩷 Info
 
