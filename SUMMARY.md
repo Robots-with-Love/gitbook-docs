@@ -4,28 +4,25 @@
 
 * [Welcome](README.md)
 
-## 💜 Voxel Robots
+## 💜 Voxel Series
 
-* [Voxel Robots with Love](voxel-robots/voxel-robots-with-love.md)
-* [Modeling](voxel-robots/modeling.md)
-* [Texturing](voxel-robots/texturing.md)
-* [Rigging](voxel-robots/rigging.md)
-* [Animating](voxel-robots/animating.md)
-* [Robots in Engine](voxel-robots/robots-in-engine.md)
+* [Voxel Robots with Love](voxel-series/voxel-robots-with-love.md)
+* [Modeling](voxel-series/modeling.md)
+* [Texturing](voxel-series/texturing.md)
+* [Rigging](voxel-series/rigging.md)
+* [Animating](voxel-series/animating.md)
+* [Robots in Engine](voxel-series/robots-in-engine.md)
 
-## 💙 Tools
+## 💙 About
 
-* [Network Map](tools/network-map.md)
-* [Tools](tools/tools.md)
-* [Bounties](tools/bounties.md)
-* [Blockbench](tools/blockbench.md)
-* [Pixelorama](tools/pixelorama.md)
-* [Jan.ai](tools/jan.ai.md)
+* [Network Mission](about/network-mission.md)
+* [Tools](about/tools.md)
+* [Bounties](about/bounties.md)
+* [Contribute to RWL!](about/contribute-to-rwl.md)
 
 ## 🩷 Info
 
 * [Legal](info/legal/README.md)
   * [MIT License](info/legal/mit-license.md)
   * [Terms and Conditions](info/legal/terms-and-conditions.md)
-* [Contribute to RWL!](info/contribute-to-rwl.md)
 * [Whitepaper](https://robots-with-love.gitbook.io/robots-with-love-whitepaper/)

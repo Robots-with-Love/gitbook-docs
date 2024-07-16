@@ -17,15 +17,7 @@ coverY: 144.9917355371901
 
 **You can:**
 
-* **Start building now!** |  [Voxel Robots with Love!](voxel-robots/voxel-robots-with-love.md)
-* Get Information about the Initiative |  [Open Source Software](tools/tools.md).
+* **Start building now!** |  [Voxel Robots with Love!](voxel-series/voxel-robots-with-love.md)
+* Get Information about the Initiative |  [Network Mission](about/network-mission.md)
 * If you want to learn more about the motivations behind the project read the [Whitepaper](https://app.gitbook.com/o/aqyTPLGJA4bLthlhdWLH/s/Ua5ZeGc4YZch5oygAlLM/)
-
-### Pillars
-
-**RwL is developed with a set of foundational pillars.**
-
-* Tools! - Built the free metaverse entirely with open source, accessible software tooling.
-* Easy to Learn! - Built with the hope to have everyone understand the free metaverse.
-* Pluralistic! - Participatory in the new distributed economy.
 
