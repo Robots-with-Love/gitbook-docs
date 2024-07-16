@@ -1,21 +1,16 @@
 ---
-description: Start Here
+description: We believe anyone can build robots, when they are built with love.
 cover: >-
-  .gitbook/assets/alchemyrefiner_alchemymagic_0_41d0183a-0e9a-4384-a014-64e09d8af2dc_0.jpg
-coverY: 144.9917355371901
+  .gitbook/assets/Default_create_a_low_resolution_orthographic_voxel_version_of_1.webp
+coverY: 138.79411764705884
 ---
 
 # Welcome
 
-<figure><img src=".gitbook/assets/Default_A_whimsical_handdrawn_illustration_of_Robots_with_Love_1.jpg" alt=""><figcaption></figcaption></figure>
-
-> We believe anyone can build robots, when they are **built with love.**
-
 ## Get Started!
 
-**You can:**
+**Ready to build the free metaverse?  We can do it together!** &#x20;
 
-* **Start building now!** |  [Voxel Robots with Love!](voxel-series/voxel-robots-with-love.md)
+* **Start building with Level 01**  |  [Voxel Robots with Love!](voxel-series/voxel-robots-with-love.md)
 * **Get Information about the Initiative** |  [Network Mission](about/network-mission.md)
 * **Learn about the RwL Network |** [Whitepaper](https://app.gitbook.com/o/aqyTPLGJA4bLthlhdWLH/s/Ua5ZeGc4YZch5oygAlLM/)
-
