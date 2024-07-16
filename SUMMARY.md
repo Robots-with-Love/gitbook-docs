@@ -6,7 +6,7 @@
 
 ## 💜 Voxel Series
 
-* [Voxel Robots with Love](voxel-series/voxel-robots-with-love.md)
+* [Introduction](voxel-series/introduction.md)
 * [Modeling](voxel-series/modeling.md)
 * [Texturing](voxel-series/texturing.md)
 * [Rigging](voxel-series/rigging.md)
