@@ -11,13 +11,11 @@ coverY: 144.9917355371901
 
 > We believe anyone can build robots, when they are **built with love.**
 
-**Get started!**
-
 ## Get Started!
 
 **You can:**
 
 * **Start building now!** |  [Voxel Robots with Love!](voxel-series/voxel-robots-with-love.md)
-* Get Information about the Initiative |  [Network Mission](about/network-mission.md)
-* If you want to learn more about the motivations behind the project read the [Whitepaper](https://app.gitbook.com/o/aqyTPLGJA4bLthlhdWLH/s/Ua5ZeGc4YZch5oygAlLM/)
+* **Get Information about the Initiative** |  [Network Mission](about/network-mission.md)
+* **Learn about the RwL Network |** [Whitepaper](https://app.gitbook.com/o/aqyTPLGJA4bLthlhdWLH/s/Ua5ZeGc4YZch5oygAlLM/)
 
