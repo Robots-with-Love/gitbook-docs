@@ -12,5 +12,5 @@ coverY: 138.79411764705884
 **Ready to build the free metaverse?  We can do it together!** &#x20;
 
 * **Start building with Level 01**  |  [Voxel Robots with Love!](voxel-series/introduction.md)
-* **Get Information about the Initiative** |  [Network Mission](about-rwl/network-mission.md)
+* **Get Information about the Initiative** |  [Network Mission](about/network-mission.md)
 * **Learn about the RwL Network |** [Whitepaper](https://app.gitbook.com/o/aqyTPLGJA4bLthlhdWLH/s/Ua5ZeGc4YZch5oygAlLM/)
