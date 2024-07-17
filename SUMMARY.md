@@ -19,7 +19,7 @@
 * [Open Source Tools](about/tools.md)
 * [AI System: Robbie](about/robbie.md)
 * [Bounties with Deep Work](about/bounties.md)
-* [Contribute to RWL!](about/contribute-to-rwl.md)
+* [Donate with Giveth](about/donate-with-giveth.md)
 
 ## 🩷 Info
 
