@@ -16,9 +16,9 @@
 ## 💙 About
 
 * [Network Mission](about/network-mission.md)
-* [Open Source Tools](about/open-source-tools.md)
-* [AI System: Robbie](about/ai-system-robbie.md)
-* [Bounties with Deep Work](about/bounties-with-deep-work.md)
+* [Open Source Tools](about/tools.md)
+* [AI System: Robbie](about/robbie.md)
+* [Bounties with Deep Work](about/bounties.md)
 * [Contribute to RWL!](about/contribute-to-rwl.md)
 
 ## 🩷 Info
