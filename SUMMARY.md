@@ -13,13 +13,13 @@
 * [Animating](voxel-series/animating.md)
 * [Engine](voxel-series/engine.md)
 
-## 💙 About
+## 💙 About RwL
 
-* [Network Mission](about/network-mission.md)
-* [Open Source Tools](about/tools.md)
-* [AI System: Robbie](about/robbie.md)
-* [Bounties with Deep Work](about/bounties.md)
-* [Donate with Giveth](about/donate-with-giveth.md)
+* [Network Mission](about-rwl/network-mission.md)
+* [Open Source Tools](about-rwl/open-source-tools.md)
+* [AI System: Robbie](about-rwl/ai-system-robbie.md)
+* [Bounties with Deep Work](about-rwl/bounties-with-deep-work.md)
+* [Donate with Giveth](about-rwl/donate-with-giveth.md)
 
 ## 🩷 Info
 
